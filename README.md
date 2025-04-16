@@ -1,5 +1,7 @@
 ### Introduction
 
+The code and analysis are in the [Final_notebook.ipynb].(https://github.com/SinghJagpreet096/target_marketing/blob/main/Final_notebook.ipynb)
+
     
 Bank "A" is planning to run a marketing campaign aimed at its current customers with the objective of boosting their deposit balances. The campaign will offer special interest rates as a promotion to entice customers to increase their credit balances.The dataset contains real customer data from an international bank and the task is to find right set of customer who are most likely to subscribe for the campaign.To predict this we are using different classification models such as Logistic regression, Decision Tree clasifier, Random forest classifier , AdaBoost Classifier.
     
